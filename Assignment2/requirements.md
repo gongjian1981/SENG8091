@@ -1,18 +1,4 @@
-# Task 1
-to have categorized training questions that are separate from the answers
-
-Functional Requirements
-- 
-- 
-- 
-System Requirements
-
-Assumptions & Validation
-
--
--
-
-
-Tasks
--
--
+## Requirements
+- As an AI developer, you need a subsystem that can collect content from the internet
+- As an AI developer, you need a subsystem that can filter these contents
+- As an AI developer, you need a AI system that can using these filtered contents to train and provide result based on algorithm

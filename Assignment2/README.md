@@ -10,4 +10,4 @@ This folder contains files for Assignment 2 of course SENG8091.
 
 ## Challenges
 - [Challenge1](challenge1.md) to have categorized training questions that are separate from the answers
-- [Challenge1](challenge2.md) to know that the training data they are using is "balanced"
+- [Challenge2](challenge2.md) to know that the training data they are using is "balanced"
