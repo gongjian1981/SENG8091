@@ -1,4 +1,5 @@
 ## Requirements
+
 ### Functional Requirements
 - As an AI developer, you need a subsystem that can collect content from the internet
   + the system should save urls entered by users.
@@ -12,6 +13,7 @@
   + the system should provide a entrance for administrator to input data.
   + the system should be able to analyse the data based on the model.
   + the system should generate answer to the question user input.
+
 ### Non-Functional Requirements
 - for web scraping, it needs to be automated and keep running
   + the system should be reliability, it needs to be working 7x24.

@@ -1,18 +1,19 @@
-# Challenge 2
+## Challenge 2
 to know that the training data they are using is “balanced”
 
-Functional Requirements
+### Functional Requirements
 - 
 - 
 - 
-System Requirements
 
-Assumptions & Validation
-
+### Assumptions 
 -
 -
 
+### Validation
+-
+-
 
-Tasks
+### Tasks
 -
 -
