@@ -16,15 +16,8 @@ to have categorized training questions that are separate from the answers
   + the system shoule be able to save the question to its corresponding category.
 
 ### Assumptions
-- the content is multilanguages
-- a question without answer is useless
-- a question that can be categoried is still needed
+- The subsystem need credential
+- The scrapping should continue if the content scrapped contains other urls
 ### Validation
-- Do the system need to support multilanguages
-- Do all the questions need answers
-- Do all the questions that can be categoried need to be categoried later
-
-### Tasks
-- build system that support main languages
-- build system that only deal questions with answers
-- build system that support categorize those uncategoriez question
+- Do the system need a login page
+- Do we only scrap the given url or its related urls

@@ -14,7 +14,3 @@ to know that the training data they are using is “balanced”
 ### Validation
 - Do you need to store the biased data.
 - Do you need to adjust the content if the previous data is wrong.
-
-### Tasks
-- build system that save the biasd data and note its source.
-- build system that can remove some content from the database.

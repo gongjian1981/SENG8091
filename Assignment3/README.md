@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 3
 This folder contains files for Assignment 3 of course SENG8091.
 
 ## Requirements
